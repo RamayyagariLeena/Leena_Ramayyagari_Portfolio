@@ -15,8 +15,7 @@ function Home2() {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
-              A LITTLE ABOUT  <span className="purple"> MY STORY </span>
+            <h1 style={{ fontSize: "2.6em" }}><span className="purple"> MY STORY </span>
             </h1>
             <p className="home-about-body">
               I am Leena Ramayyagari, a <b className="purple">Full Stack Web Developer</b>  blending creativity with technical expertise. With a Master's degree from <b className="purple">Purdue University</b>  and hands-on experience at Virtusa and Relanto.INC, I have crafted seamless web applications by harmonizing front-end and back-end technologies.
